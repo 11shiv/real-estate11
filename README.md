@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [netlify](https://real-estate11.netlify.app/).
+Hosted ---> [netlify](https://real-estate11.netlify.app/).
 
 ## Available Scripts
 
