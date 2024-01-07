@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [netlify](https://real-estate11.netlify.app/).
 
 ## Available Scripts
 
@@ -68,3 +68,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+# `Project Shot 
+![Screenshot 2024-01-07 190009](https://github.com/11shiv/real-estate11/assets/103626079/855f285c-19dd-4bec-8b2a-81435c774948)
+
+![Screenshot 2024-01-07 190027](https://github.com/11shiv/real-estate11/assets/103626079/1a1996b6-e53b-4e3b-9bac-7918f1a64d1f)
+![Screenshot 2024-01-07 190051](https://github.com/11shiv/real-estate11/assets/103626079/0bc8f208-e9a3-448a-a9a0-24b5c7fbfdc4)
+
+
+
